@@ -1,0 +1,10 @@
+{
+    "name": "indexof",
+    "description": "Microsoft sucks",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "0.0.1"
+}
